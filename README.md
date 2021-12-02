@@ -1,4 +1,7 @@
-# Open-domain QA Survey Study
+# Open-domain QA Study 
+📌 The purpose of this study is for the personal reason. But if you want to join to this study, please contact to me via below email.
+
+✉️ passing2961@gmail.com
 
 - Paper: Zhu, Fengbin, et al. "Retrieving and reading: A comprehensive survey on open-domain question answering." arXiv preprint arXiv:2101.00774 (2021). [[link]](https://arxiv.org/pdf/2101.00774.pdf)
 
